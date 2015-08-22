@@ -55,12 +55,12 @@ img {
 	font-size: 50px;
 }
 
-#masthead h3 {
+#masthead h2 {
 	font-size: 30px;
 }
 
 #masthead h1,
-h3 {
+h2 {
 	color: white;
 	text-align: center;
 	font-weight: 300;
@@ -89,7 +89,7 @@ h3 {
 }
 
 .big-button {
-	width: 9.68rem;
+	width: 15.68rem;
 	background-color: #f15a29;
 	border-color: #f15a29;
 	font-size: 1.125rem;
@@ -124,6 +124,7 @@ div.contentBox {
 	margin: 0 5px 0 5px;
 	border: 1px solid #CCC;
 	padding: 7px;
+	text-align: center;
 }
 
 #featureWrap .feature p {
@@ -261,7 +262,7 @@ a.cta-green:active {
 		display: inline;
 		margin-left: 15px;
 	}
-	#masthead h3 {
+	#masthead h2 {
 		font-size: 25px;
 		line-height: 24px;
 	}
@@ -303,7 +304,7 @@ a.cta-green:active {
 	#masthead h1 {
 		font-size: 30px;
 	}
-	#masthead h3 {
+	#masthead h2 {
 		font-size: 20px;
 		line-height: 24px;
 	}
